@@ -1,24 +1,24 @@
 {
-  "store_id": 13323,
-  "name": "eletroshoppingsantaifigenia",
   "domain": "eletroshoppingsantaifigenia.netlify.app",
-  "short_name": "eletroshoppingsantaifigenia",
-  "description": "eletroshoppingsantaifigenia",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ff0000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/eletroshoppingsantaifigenia",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "Eletroshopping Santa Ifigenia",
+  "short_name": "Eletroshopping",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/ssl-safe.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/eletroshoppingsantaifigenia"
+  "secondary_color": "#4c36ec",
+  "icon": "/img/uploads/logo.jpg",
+  "store_id": 13323,
+  "description": "Nossa loja Eletro Shopping Santa Ifigenia possui uma linha completa de Eletronicos, Eletrodomésticos, aproveite e renove já o visual da sua casa. Grande variedade de marcas e modelos pelos menores preços.\nProdutos Nacionais e Importados, com super descontos.",
+  "large_icon": "/img/uploads/logo.jpg"
 }
