@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 70%!",
-    "link": "/promotion",
+    "text": "Aproveite nossos descontos de até 70%! Compre pelo Whatsapp",
+    "link": "https://bit.ly/atendimento-eletroshopping",
     "background": "#1815ac"
   },
   "contacts_stripe": {
@@ -9,10 +9,6 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
