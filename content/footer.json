@@ -1,55 +1,24 @@
 {
-  "description": {
-    "title": "Eletroshopping Santa Ifigenia a sua melhor opção de compra pela Internet",
-    "text": "Eletroshopping-Santa-Ifigenia / Rua Santa Ifigenia, 577- Santa Efigenia - São Paulo - SP Cep: 01207-001 / 08.503.462/0001-33"
-  },
-  "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
-  },
-  "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
-    "list": []
+  "payment_methods": {
+    "boleto": true,
+    "visa": true,
+    "mastercard": true,
+    "elo": true,
+    "amex": true,
+    "hipercard": true,
+    "citibank": true
   },
   "contacts": {
-    "title": "Contatos",
-    "phone_wpp": true,
     "socials": true,
-    "email": true,
-    "address": true
+    "phone_wpp": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    },
-    {
-      "src": "https://www.mimocriativa.com.br/wp-content/uploads/2018/09/selossegurancachase.png"
-    },
-    {
-      "src": "/img/uploads/images-1-.png"
-    }
-  ],
-  "payment_methods": {
-    "bb": true,
-    "visa": true,
-    "boleto": true,
-    "aura": false,
-    "banrisul": true,
-    "elo": true,
-    "hipercard": true,
-    "hsbc": true,
-    "bradesco": true,
-    "santander": true,
-    "mastercard": true,
-    "paypal": true,
-    "citibank": true,
-    "diners": true,
-    "mais": true,
-    "amex": true,
-    "itau": true
+  "description": {
+    "title": "A sua melhor opção de compra pela Internet é aqui"
   },
-  "credits": ""
+  "links_1": {
+    "list_pages": true
+  },
+  "links_2": {
+    "list_categories": true
+  }
 }
