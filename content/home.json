@@ -7,11 +7,14 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/1427227445_eletroshopping.jpg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "2021-10-26T07:17:59.913Z",
+          "end": "2021-10-26T07:17:59.991Z",
+          "img": "/img/uploads/1.png"
+        },
+        {
+          "start": "2021-10-26T07:18:41.170Z",
+          "end": "2021-10-26T07:18:41.250Z",
+          "img": "/img/uploads/2.png"
         }
       ]
     },
