@@ -1,23 +1,33 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Eletroshopping Santa Ifigenia",
+  "meta_description": "A sua melhor opção de compra pela Internet é aqui",
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/1427227445_eletroshopping.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/images.jpg",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
+        },
+        {
+          "start": "2021-10-26T03:36:10.025Z",
+          "end": "2021-10-26T03:36:10.088Z",
+          "img": "/img/uploads/eletro.jpg"
+        },
+        {
+          "start": "2021-10-26T03:36:33.378Z",
+          "end": "2021-10-26T03:36:33.442Z",
+          "img": "/img/uploads/game-room.jpg"
         }
       ]
     },
@@ -34,8 +44,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Eletroshopping Santa Ifigenia",
+      "description": "A sua melhor opção de compras pela Internet é aqui"
     }
   ]
 }
