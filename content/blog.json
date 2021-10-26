@@ -1,14 +1,16 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "Depoimentos",
+  "meta_title": "Depoimentos",
+  "meta_description": "Depoimentos",
   "sections": [
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Depoimentos",
+      "description": "Confira o que os nossos clientes dizem a respeito da nossa loja"
     },
     {
       "type": "blog",
