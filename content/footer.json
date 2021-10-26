@@ -20,5 +20,13 @@
   },
   "links_2": {
     "list_categories": true
-  }
+  },
+  "stamps": [
+    {
+      "src": "/img/uploads/images-1-.png"
+    },
+    {
+      "src": "/img/uploads/images.png"
+    }
+  ]
 }
