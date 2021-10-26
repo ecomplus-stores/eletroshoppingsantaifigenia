@@ -1,7 +1,7 @@
 {
   "domain": "eletroshoppingsantaifigenia.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff0000",
+  "primary_color": "#1e00ff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/ssl-safe.png",
   "country_code": "BR",
-  "secondary_color": "#4c36ec",
+  "secondary_color": "#5c4cd6",
   "icon": "/img/uploads/logo.jpg",
   "store_id": 13323,
   "description": "Nossa loja Eletro Shopping Santa Ifigenia possui uma linha completa de Eletronicos, Eletrodomésticos, aproveite e renove já o visual da sua casa. Grande variedade de marcas e modelos pelos menores preços.\nProdutos Nacionais e Importados, com super descontos.",
