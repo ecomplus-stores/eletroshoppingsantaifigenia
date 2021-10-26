@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Aproveite a promoção de Frete Gratis - Entregamos para todo o Brasil ( Leia as regras ou entre em contato com nosso televendas )"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Compra 100% segura pelo Mercado Pago - Parcele sem juros"
   },
   "exchange": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "APROVEITE O MEGA SALDÃO DE VITRINE, PRODUTOS COM ATÉ 70% DE DESCONTOS"
   }
 }
