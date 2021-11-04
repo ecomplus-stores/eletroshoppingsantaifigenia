@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Aproveite a promoção de Frete Gratis - Entregamos para todo o Brasil ( Leia as regras ou entre em contato com nosso televendas )"
+    "text": "Entregamos para todo o Brasil",
+    "link": ""
   },
   "installments": {
     "show": true,
-    "text": "Compra 100% segura pelo Mercado Pago - Parcele sem juros"
+    "text": "Compra 100% segura pelo Mercado Pago - Parcele sem juros",
+    "link": ""
   },
   "exchange": {
     "show": true,
@@ -13,6 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "APROVEITE O MEGA SALDÃO DE VITRINE, PRODUTOS COM ATÉ 70% DE DESCONTOS"
+    "text": "APROVEITE O MEGA SALDÃO DE VITRINE, PRODUTOS COM ATÉ 7% DE DESCONTOS CLIQUE AQUI",
+    "link": "https://bit.ly/atendimento-eletroshopping"
   }
 }
