@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
-  "html_body": ""
+  "html_head": "<div id=\"fb-root\"></div>\n<script async defer crossorigin=\"anonymous\" \nsrc=\"https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v12.0\" \nnonce=\"S5Yj6UQr\"></script>\n",
+  "html_body": "<div class=\"fb-comments\" \ndata-href=\"https://www.facebook.com/eletroshoppingsantaifigenia\" \ndata-width=\"\" data-numposts=\"5\"></div>\n"
 }
