@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.15b184e8baa49e7fe6b5e9d91bb334f9.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.213af7553f3b319a847fb38ad25b9fab.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.4cb5af3c1a45efb1d2b4b755e9615564.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d36d66a1b401f28d66ea07becd1bb17c.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.4a2c1a308ad5b929b68b39968f2e109b.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Eletroshopping Santa Ifigenia",
+  "short_name": "Eletroshopping",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nossa loja Eletro Shopping Santa Ifigenia possui uma linha completa de Eletronicos, Eletrodomésticos, aproveite e renove já o visual da sua casa. Grande variedade de marcas e modelos pelos menores preços.\nProdutos Nacionais e Importados, com super descontos.",
+  "background_color": "#ffffff",
+  "theme_color": "#1e00ff"
+}
